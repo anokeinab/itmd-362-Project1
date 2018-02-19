@@ -223,7 +223,7 @@ input[type=date], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-		font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 19px;
 }
 
@@ -235,7 +235,7 @@ input[type=email], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-		font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 19px;
 }
 input[type=tel], select {
@@ -246,7 +246,7 @@ input[type=tel], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-		font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 19px;
 }
 input[type=submit] {
@@ -258,7 +258,7 @@ input[type=submit] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-		font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 19px;
 }
 
@@ -272,8 +272,8 @@ div {
     padding-bottom: 50px;
     padding-top: 100px;
     margin: auto;
-    width: 75%;
-    height: 75%;
+    width: 85%;
+    height: 85%;
     text-align: center;		
 }
 div p {
