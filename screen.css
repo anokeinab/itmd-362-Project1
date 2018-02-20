@@ -250,7 +250,7 @@ input[type=tel], select {
     font-size: 19px;
 }
 input[type=submit] {
-    width: 75%;
+    width: 35%;
     background-color: #0000ff;
     color: white;
     padding: 14px 20px;
