@@ -276,6 +276,15 @@ input[type=submit]:hover {
     height: 480px;
     text-align: center;	
 }
+/*this the form container styling*/
+#form {
+	width: 60%;
+	height:60%;
+	text-align: left;
+	margin: auto;
+	padding-bottom: 300px;
+  padding-top: 10px;
+}	
 
 div p {
     font-size: 19px;
