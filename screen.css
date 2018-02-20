@@ -266,7 +266,7 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-input[type=cancel] {
+button[type=cancel] {
     width: 35%;
     background-color: #0000ff;
     color: white;
