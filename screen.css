@@ -289,7 +289,8 @@ input[type=submit]:hover {
 div p {
     font-size: 19px;
 }
-div h1 {
+h2 {
     font-size: 25px;
+font-familly: serif;
 }
 }
