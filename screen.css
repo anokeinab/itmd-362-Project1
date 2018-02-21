@@ -320,7 +320,7 @@ input[type=submit]:hover {
 	width: 60%;
 	height:40%;
 	text-align: left;
-	margin: auto;
+	margin-top: auto;
 	padding-bottom: 300px;
         padding-top: 10px;
 }	
