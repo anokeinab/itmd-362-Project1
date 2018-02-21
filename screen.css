@@ -195,6 +195,7 @@ html {
   padding-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
+  font-size: 1em; /* 22px */
   line-height: 2.225em;
   font-family: Helvetica, Arial, sans-serif;
 }	
