@@ -266,7 +266,7 @@ input[type=text], select {
     border-radius: 4px;
     box-sizing: border-box;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.1875em;/*19px*/
+    font-size: 1.18em;/*19px*/
 		
 }
 input[type=date], select {
@@ -278,7 +278,7 @@ input[type=date], select {
     border-radius: 4px;
     box-sizing: border-box;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.1875em;
+    font-size: 1.18em;
 }
 
 input[type=email], select {
@@ -290,7 +290,7 @@ input[type=email], select {
     border-radius: 4px;
     box-sizing: border-box;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.1875em;
+    font-size: 1.18em;
 }
 input[type=submit] {
     width: 35%;
@@ -328,9 +328,9 @@ input[type=submit]:hover {
 }	
 
 p {
-    font-size: 1.1875em;
+    font-size: 1.18em;
 }
 h2 {
-    font-size: 1.5625em;
+    font-size: 1.6em;
 }
 
