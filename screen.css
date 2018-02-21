@@ -321,8 +321,8 @@ input[type=submit]:hover {
 	height:60%;
 	text-align: left;
 	margin-top: auto;
-	padding-bottom: 300px;
-        padding-top: 10px;
+	padding-left: 200px;
+        padding-right: 10px;
 }	
 
 p {
