@@ -318,7 +318,7 @@ input[type=submit]:hover {
 /*this the form container styling*/
 #form {
 	width: 60%;
-	height:60%;
+	height:40%;
 	text-align: left;
 	margin: auto;
 	padding-bottom: 300px;
