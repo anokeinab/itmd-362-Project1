@@ -195,13 +195,11 @@ html {
   padding-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
-  font-size: 2.5em;
   line-height: 2.225em;
   font-family: Helvetica, Arial, sans-serif;
 }
-html h1{
-    font-size: 2.5em;
-    font-color: blue;
+html, h1{
+    font-size: 2.5em;   
 }	
 @media only screen and (min-width: 360px) {
     /* For mobile phones: */
