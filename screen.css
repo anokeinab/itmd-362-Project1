@@ -254,7 +254,7 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 960px) {
     /* For desktop: */
 input[type=text], select {
     width: 75%;
@@ -265,7 +265,7 @@ input[type=text], select {
     border-radius: 4px;
     box-sizing: border-box;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 19px;
+    font-size: 1.1875em;/*19px*/
 		
 }
 input[type=date], select {
@@ -277,7 +277,7 @@ input[type=date], select {
     border-radius: 4px;
     box-sizing: border-box;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 19px;
+    font-size: 1.1875em;
 }
 
 input[type=email], select {
@@ -289,7 +289,7 @@ input[type=email], select {
     border-radius: 4px;
     box-sizing: border-box;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 19px;
+    font-size: 1.1875em;
 }
 input[type=submit] {
     width: 35%;
@@ -301,7 +301,7 @@ input[type=submit] {
     border-radius: 4px;
     cursor: pointer;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 19px;
+    font-size: 1.1875em;
 }
 input[type=submit]:hover {
     background-color: #45a049;
@@ -327,9 +327,9 @@ input[type=submit]:hover {
 }	
 
 div p {
-    font-size: 19px;
+    font-size: 1.1875em;
 }
 h2 {
-    font-size: 25px;
+    font-size: 1.5625em;
 }
 
