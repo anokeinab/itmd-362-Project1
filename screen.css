@@ -238,17 +238,6 @@ input[type=email], select {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 19px;
 }
-input[type=tel], select {
-    width: 75%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 19px;
-}
 input[type=submit] {
     width: 35%;
     background-color: #0000ff;
@@ -261,24 +250,9 @@ input[type=submit] {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 19px;
 }
-
 input[type=submit]:hover {
     background-color: #45a049;
 }
-
-button[type=cancel] {
-    width: 35%;
-    background-color: #0000ff;
-    color: white;
-    padding: 20px 14px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 19px;
-}
-
 .container {
     border-radius: 5px;
     background-color: #f2f2f2;
