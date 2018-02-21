@@ -198,7 +198,7 @@ html {
   font-size: 1em; /* 22px */
   line-height: 2.225em;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: #RRGGBB;
+  background-color:#RRGGBB;
 }
 @media only screen and (min-width: 360px) {
     /* For mobile phones: */
@@ -264,8 +264,8 @@ input[type=text], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-		font-family: Helvetica, Arial, sans-serif;
-		font-size: 19px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 19px;
 		
 }
 input[type=date], select {
@@ -323,7 +323,7 @@ input[type=submit]:hover {
 	text-align: left;
 	margin: auto;
 	padding-bottom: 300px;
-  padding-top: 10px;
+        padding-top: 10px;
 }	
 
 div p {
@@ -331,6 +331,5 @@ div p {
 }
 h2 {
     font-size: 25px;
-font-familly: serif;
 }
 }
