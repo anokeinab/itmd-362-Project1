@@ -1,4 +1,3 @@
-<script>
 function validateForm() {
     var x = document.forms["form"]["email"].value;
     if (x == "") {
@@ -6,4 +5,3 @@ function validateForm() {
         return false;
     }
 }
-</script>
