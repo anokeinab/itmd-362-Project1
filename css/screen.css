@@ -308,11 +308,12 @@ input[type=submit]:hover {
 .container {
     border-radius: 5px;
     background-color: #f2f2f2;
+    background-image:url("img/it");
     padding-bottom: 100px;
     padding-top: 100px;
     margin: auto;
-    width: 960px;
-    height: 500px;
+    width: 100%;
+    height: 100%;
     text-align: center;	
 }
 /*this the form container styling*/
